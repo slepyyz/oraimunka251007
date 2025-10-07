@@ -1,0 +1,9 @@
+table{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+.harom, .negy, .het, .nyolc, .ot{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
